@@ -1,2 +1,2 @@
 # 2025-06-learning
-learning about git
+learning about git and github
